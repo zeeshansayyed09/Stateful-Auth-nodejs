@@ -1,0 +1,40 @@
+body {
+    font-family: Arial, sans-serif;
+    max-width: 600px;
+    margin: 50px auto;
+    line-height: 1.8;
+}
+
+h1 {
+    margin-bottom: 25px;
+}
+
+a {
+    text-decoration: none;
+    color: #0969da;
+    margin-right: 15px;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+button {
+    padding: 6px 12px;
+    cursor: pointer;
+}
+
+input {
+    width: 100%;
+    padding: 8px;
+    margin: 8px 0 16px;
+    border: 1px solid #ccc;
+}
+
+label {
+    font-weight: bold;
+}
+
+form {
+    margin-top: 20px;
+}
